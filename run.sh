@@ -1,6 +1,6 @@
 #!/bin/bash
 
 set -e
-echo 'test'
+curl https://www.apple.com
 
 false
