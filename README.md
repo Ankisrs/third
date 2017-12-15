@@ -1,1 +1,2 @@
 # third
+- test mongo install
